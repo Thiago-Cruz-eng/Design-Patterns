@@ -1,5 +1,5 @@
 node_modules
 dist
 __my_files
-venv
+.env
 .mypy_cache
